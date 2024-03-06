@@ -9,7 +9,7 @@
 
 <body>
 	<form action=" " id="questions" method="post" name="questions">
-		<input type="number" name="number" id="number"><label for="number">Number</label><br>
+		<input type="number" name="number" id="number" step="2"><label for="number">Number</label><br>
 		<input type="submit">
 	</form>	
 </body>
